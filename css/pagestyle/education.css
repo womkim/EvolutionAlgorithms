@@ -1,0 +1,27 @@
+.panel-body p{
+    font-size: 0.9em;
+    line-height: 1.5em;
+    text-align:justify;
+}
+.img-set{
+    height: 400px;
+}
+.img-set img{
+
+}
+.col4{
+    width: 40%;
+    float: left;
+    height: 100%;
+}
+.col6{
+    width: 60%;
+    float: left;
+    height: 100%;
+}
+.row5{
+    height: 50%;
+}
+.row5{
+    height: 50%;
+}

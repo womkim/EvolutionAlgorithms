@@ -1,0 +1,9 @@
+nav{
+    border: none;
+}
+.btn img{
+    border: 1px solid #89E1FB;
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+}
