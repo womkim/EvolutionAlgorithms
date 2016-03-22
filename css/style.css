@@ -1,0 +1,33 @@
+.img-set{
+    text-align: center;
+    width: 100%;
+    height: 350px;
+}
+.img-set img{
+    height: 100%;
+    width: 100%;
+}
+.panel-heading{
+    font: 63% Georgia, "Times New Roman", Times, serif;
+    color: #8DC919;
+    font-size: 22px;
+    border-bottom: 1px solid rgba(0,0,0,0.13);
+}
+.panel-body{
+    font: 63% Georgia, "Times New Roman", Times, serif;
+    font-size: 15px;
+}
+.panel-body p{
+    text-indent: 2em;
+    font-size: 1.09em;
+    line-height: 1.5em;
+    text-align:justify;
+}
+li a{
+    color: #423A3A;
+    font-size: 16px;
+}
+.active a{
+    color: #8DC919;
+    font-weight: bold;
+}
