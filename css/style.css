@@ -2,6 +2,12 @@
 nav{
     border-bottom: 1px solid #e5e5e5;
 }
+.navbar{
+    margin-bottom: 0;
+}
+.navbar-toggle .icon-bar{
+    background-color: #8DC919;;
+}
 .img-set{
     text-align: center;
     width: 100%;

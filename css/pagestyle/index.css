@@ -11,3 +11,7 @@ big{
 	font-size: 25px;
     font-style: oblique;
 }
+p.pstyle{
+    text-indent: initial;
+    text-align: center;
+}
