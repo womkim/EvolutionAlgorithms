@@ -5,7 +5,7 @@
 		for example: 
 			Run command: java -jar 0.5 0.5 1 1 30 10 30 5 results
 				the first parameter is the scaling factor, value of F;
-				the second parameter is the crossover factor, value of CR;
+				the second parameter is the crossover rate, value of CR;
 				the third parameter is DE mutation strategy, 
 						there are 7 strategies: < DE/rand/1 > , 
 									< DE/best/1 > , 
