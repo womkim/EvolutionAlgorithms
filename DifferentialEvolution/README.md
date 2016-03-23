@@ -7,9 +7,13 @@
 				the first parameter is the scaling factor, value of F;
 				the second parameter is the crossover factor, value of CR;
 				the third parameter is DE mutation strategy, 
-						there are 7 strategies: <DE/rand/1> , <DE/best/1> , <DE/rand/2> , <DE/best/2> ,
-												< DE/rand-To-best/1> , < DE/current-To-best/1> ,
-												< DE/rand-To-best/2>;
+						there are 7 strategies: < DE/rand/1 > , 
+									< DE/best/1 > , 
+									< DE/rand/2 > , 
+									< DE/best/2 > ,
+									< DE/rand-To-best/1 > , 
+									< DE/current-To-best/1 > ,
+									< DE/rand-To-best/2 >;
 				the fourth parameter is the start function number, value of 1 to 30;
 				the fifth parameter is the end function number, value of 1 to 30, and must be bigger than start function number or be equal to it;
 				the following parameter(s) is(are) the dimension of the problem (must be set as 10,30,50,100 while function number is within 1 to 15);
